@@ -14,7 +14,7 @@ HERE="${PWD}"
 cd /usr/ports
 
 # wine-alsa
-build_package emulators/wine-alsa
+build_package emulators/wine
 
 cd "${HERE}"
 umount /usr/ports
