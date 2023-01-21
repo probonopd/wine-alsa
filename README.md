@@ -1,5 +1,7 @@
 # wine-alsa [![Build Status](https://api.cirrus-ci.com/github/probonopd/wine-alsa.svg)](https://cirrus-ci.com/github/probonopd/wine-alsa)
 
+__Work in progress, likely not functional yet.__
+
 [Built packages](https://api.cirrus-ci.com/v1/artifact/github/probonopd/wine-alsa/pkg/binary/FreeBSD:13:amd64/index.html)
 
 ```sh
